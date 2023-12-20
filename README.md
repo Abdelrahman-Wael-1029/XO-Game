@@ -1,2 +1,2 @@
-# XO game gy dart
+# XO game
 ![](XO_UML.png)
